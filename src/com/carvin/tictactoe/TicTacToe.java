@@ -13,6 +13,12 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 
+/**
+ * Basic TicTacToe game using Swing
+ * @author Lars Bücker
+ * @version 1.0
+ */
+
 public class TicTacToe extends JFrame {
 
 	private static final long serialVersionUID = 1L;
